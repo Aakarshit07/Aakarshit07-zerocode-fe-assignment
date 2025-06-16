@@ -242,5 +242,5 @@ For questions or issues, please contact: zerocode.hiring@gmail.com
 
 ---
 
-**Live Demo**: [https://zerocode-chatbot.vercel.app](https://zerocode-chatbot.vercel.app)
-**Repository**: [https://github.com/your-handle/zerocode-fe-assignment](https://github.com/your-handle/zerocode-fe-assignment)
+**Live Demo**: [https://aakarshit07-zerocode-fe-assignment.vercel.app/](https://aakarshit07-zerocode-fe-assignment.vercel.app/)
+**Repository**: [http://github.com/Aakarshit07/aakarshit07-zerocode-fe-assignment/](http://github.com/Aakarshit07/aakarshit07-zerocode-fe-assignment/)
